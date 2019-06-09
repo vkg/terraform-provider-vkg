@@ -1,6 +1,6 @@
 # Terraform vkg Provider
 
-This is a [Terraform][terraform] provider for managing [vkgtaro](https://github.com/vkg/taro).
+This is a Terraform provider for managing [vkgtaro](https://github.com/vkg/taro).
 It enables you to treat "vkgtaro as code"!
 
 ## Installation
